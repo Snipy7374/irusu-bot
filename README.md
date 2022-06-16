@@ -2,6 +2,7 @@
 La repository GitHub del Bot del server discord [Irusu](https://discord.gg/irusu "Irusu")
 
 # Indice
+  - [Licenza](https://github.com/Snipy7374/irusu-bot/blob/main/README.md#Licenza "Licenza")
   - [Installazione](https://github.com/Snipy7374/irusu-bot/blob/main/README.md#Installazione "Installazione")
   - [Ambiente d'esecuzione](https://github.com/Snipy7374/irusu-bot/blob/main/README.md#Ambiente-desecuzione "Ambiente d'esecuzione")
   - [Conoscenze](https://github.com/Snipy7374/irusu-bot/blob/main/README.md#Conoscenze "Conoscenze")
