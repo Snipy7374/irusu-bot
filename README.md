@@ -8,6 +8,10 @@ La repository GitHub del Bot del server discord [Irusu](https://discord.gg/irusu
   - [Come contribuire](https://github.com/Snipy7374/irusu-bot/blob/main/README.md#Come-contribuire "Come contribuire")
   - [Supporto e domande](https://github.com/Snipy7374/irusu-bot/blob/main/README.md#Supporto-e-domande "Supporto e domande")
 
+# Licenza
+Questa repository è sotto la licenza `MIT License`\n
+Per saperne di più [premi qui](https://github.com/Snipy7374/irusu-bot/blob/main/license "Licenza")
+
 # Installazione
 Per installare tutte le dipendenze esegui questo comando nel tuo terminale:
 ```
@@ -22,7 +26,7 @@ La versione di [Disnake](https://github.com/DisnakeDev/disnake "Disnake") richie
 Per poter correttamente contribuire allo sviluppo di Irusu-Bot è necessario conoscere Python (livello intermedio), sapere cosa significa programmare in modo asincrono usando le istanze `async` e `await`, conoscere come consultare la documentazione (soprattutto quella delle librerie Discord, es. [Disnake Docs](https://github.com/DisnakeDev/disnake "")), conoscere alcune delle funzionalità e delle limitazioni inposte dall'[API di Discord](https://discord.com/developers/docs/intro "")
 
 # Come contribuire
-Per contribuire potete semplicemente usare le funzioni di GitHub (Pull requests, Issues etc...) sarò poi io a controllare e recensire le vostre modifiche (accettandole o rifiutandole) e poi a "mergere" le vostre modifiche nel `main` branch, dopo poco tempo le modifiche verranno apportate anche al Bot stesso per rendere effettivi e funzionanti i cambiamenti.
+Per contribuire potete semplicemente usare le funzioni di GitHub (Pull requests, Commit, Issues etc...) sarò poi io a controllare e recensire le vostre modifiche (accettandole o rifiutandole) e poi a "mergere" le vostre modifiche nel `main` branch, dopo poco tempo le modifiche verranno apportate anche al Bot stesso per rendere effettivi e funzionanti i cambiamenti.
 <br>
 Nel caso in cui voleste eseguire il Bot nella vostra macchina locale o nel vostro profilo Replit create e generate un vostro token personale da usare al portale [Discord developer](https://discord.com/developers/applications "")
 
