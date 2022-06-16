@@ -2,7 +2,7 @@
 La repository GitHub del Bot del server discord [Irusu](https://discord.gg/irusu "Irusu")
 
 # Indice
-  - Installazione
+  - [Installazione](https://github.com/Snipy7374/irusu-bot/ "")
   - Ambiente d'esecuzione 
 
 # Installazione
