@@ -3,8 +3,6 @@ import json
 import sys
 import disnake
 from disnake.ext.commands import Bot
-from pymongo import MongoClient
-import pymongo
 
 
 ### pip install -U git+https://github.com/Chromosomologist/disnake-ext-components
