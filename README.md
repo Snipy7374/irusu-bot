@@ -9,8 +9,8 @@ La repository GitHub del Bot del server discord [Irusu](https://discord.gg/irusu
   - [Supporto e domande](https://github.com/Snipy7374/irusu-bot/blob/main/README.md#Supporto-e-domande "Supporto e domande")
 
 # Licenza
-Questa repository è sotto la licenza `MIT License`\n
-Per saperne di più [premi qui](https://github.com/Snipy7374/irusu-bot/blob/main/license "Licenza")
+Questa repository è sotto la licenza `MIT License`<br>
+Per saperne di più [premi qui](https://github.com/Snipy7374/irusu-bot/blob/main/LICENSE "Licenza")
 
 # Installazione
 Per installare tutte le dipendenze esegui questo comando nel tuo terminale:
