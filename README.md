@@ -3,10 +3,10 @@ La repository GitHub del Bot del server discord [Irusu](https://discord.gg/irusu
 
 # Indice
   - [Installazione](https://github.com/Snipy7374/irusu-bot/blob/main/README.md#Installazione "Installazione")
-  - [Ambiente d'esecuzione](https://github.com/Snipy7374/irusu-bot/blob/main/README.md#Ambiente_desecuzione "Ambiente d'esecuzione")
+  - [Ambiente d'esecuzione](https://github.com/Snipy7374/irusu-bot/blob/main/README.md#Ambiente-desecuzione "Ambiente d'esecuzione")
   - [Conoscenze](https://github.com/Snipy7374/irusu-bot/blob/main/README.md#Conoscenze "Conoscenze")
-  - [Come contribuire](https://github.com/Snipy7374/irusu-bot/blob/main/README.md#Come_contribuire "Come contribuire")
-  - [Supporto e domande](https://github.com/Snipy7374/irusu-bot/blob/main/README.md#Supporto_e_domande "Supporto e domande")
+  - [Come contribuire](https://github.com/Snipy7374/irusu-bot/blob/main/README.md#Come-contribuire "Come contribuire")
+  - [Supporto e domande](https://github.com/Snipy7374/irusu-bot/blob/main/README.md#Supporto-e-domande "Supporto e domande")
 
 # Installazione
 Per installare tutte le dipendenze esegui questo comando nel tuo terminale:
