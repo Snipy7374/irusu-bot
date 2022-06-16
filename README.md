@@ -1,6 +1,10 @@
 # Irusu-bot
 La repository GitHub del Bot del server discord [Irusu](https://discord.gg/irusu "Irusu")
 
+# Indice
+  - Installazione
+  - Ambiente d'esecuzione 
+
 # Installazione
 Per installare tutte le dipendenze esegui questo comando nel tuo terminale:
 ```
