@@ -1,0 +1,6 @@
+{
+  "Food": [
+    ["Apple", 100, "red apple"],
+    ["Water", 50, "water"]
+  ]
+}
